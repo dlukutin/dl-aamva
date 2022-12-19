@@ -24,23 +24,9 @@ or
 
   
 
-**typescript**
-
-  
-
-```import AAMVA from "dl-aamva";```
-
-  
-
-**javascript**
-
-  
-
-```const AAMVA = require("dl-aamva");```
-
-  
-
 ```
+const AAMVA = require("dl-aamva");
+
 const rawDocument = `@
 ANSI 636014090102DL00410294ZC03350024DLDAQY8146375
 DCSGOMEZ
